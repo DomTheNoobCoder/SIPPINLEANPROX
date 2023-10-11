@@ -11,9 +11,9 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "idfk"
   ],
-  "author": "",
+  "author": "YEAT",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
